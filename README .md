@@ -29,7 +29,7 @@ A human always makes the final call — nothing here auto-rejects a candidate.
 | `HR_ADVANCE_RESUME_ANALYSIS_AGENT_v2.json` | Main n8n workflow — import this into n8n |
 | `HR_Agent_Error_Alerts_workflow.json` | Small companion workflow that emails you if the main workflow fails |
 | `Job_Roles_Template.xlsx` | Template for the sheet that maps job titles → job description file IDs |
-| `HR_Advance_Agent_Data_Template.xlsx` | Template for the main data log (DATA / Non-Applications / Low Fit Review tabs) |
+| `HR_Advance_Agent_Data_Template.xlsx` | Template for the main data log (DATA / Non-Applications / High Fit / Low Fit Review tabs) |
 | `Resume_Jane_Doe.pdf` | Sample resume for test runs |
 | `Job_Description_AI_Solutions_Architect.pdf` | Sample job description for test runs |
 | `Sample_Test_Application_Email.md` | Sample email subject/body to send for testing |
